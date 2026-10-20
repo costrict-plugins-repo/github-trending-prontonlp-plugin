@@ -1,0 +1,14 @@
+{
+    "name": "prontonlp-plugin",
+    "metadata": { "description": "ProntoNLP's marketplace for advanced financial analytics — company intelligence, sector analysis, market pulse, comparisons, and topic research." },
+    "owner": { "name": "ProntoNLP" },
+    "plugins": [
+      {
+        "name": "prontonlp-plugin",
+        "source": "./",
+        "description": "Earnings intelligence suite — company reports, sector analysis, market pulse dashboards, side-by-side comparisons, and topic research across earnings calls. Powered by ProntoNLP / S&P Global data.",
+        "keywords": ["finance", "earnings", "sentiment", "stocks", "sectors", "market-analysis", "investment", "transcripts"],
+        "version": "1.3.0"
+      }
+    ]
+}

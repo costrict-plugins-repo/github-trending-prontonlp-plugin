@@ -1,0 +1,6 @@
+{
+  "name": "prontonlp-plugin",
+  "description": "Tools and skills to perform advanced financial analysis, including stock price prediction, sentiment analysis, and portfolio optimization.",
+  "version": "1.3.0",
+  "author": { "name": "ProntoNLP", "url": "https://prontonlp.com" }
+}
